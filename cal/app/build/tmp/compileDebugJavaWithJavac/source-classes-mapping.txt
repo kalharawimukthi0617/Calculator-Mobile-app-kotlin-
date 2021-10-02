@@ -1,0 +1,2 @@
+com/example/cal/BuildConfig.java
+ com.example.cal.BuildConfig
